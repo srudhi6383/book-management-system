@@ -38,7 +38,7 @@ mutation {
 }
 ```
 
-## **ADD BOOK **
+## **ADD BOOK**
 
 ```
 mutation {
